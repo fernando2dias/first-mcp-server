@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+        "meu-servidor-imc": {
+            "command": "npx",
+            "args": [
+                "tsx",
+                "C:\\Users\\Fernando\\Desktop\\Projetos\\first-mcp-server\\src\\index.ts"
+                //"/home/fernando/Desktop/Projetos/meu-mcp-server-ts/src/index.ts"
+            ]
+        }
+    }
+}
